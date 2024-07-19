@@ -19,7 +19,7 @@
 </div>
 <br>
 <p>Пример работы программы:</p>
-<div align-="center">
-<img src"">
+<div align="center">
+<img src="anim3.gif">
 </div>
 
